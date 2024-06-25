@@ -1,34 +1,10 @@
-# Libft
-*This project aims to reimplement C a library of functions
-from the standard C library, as well as other utility functions.*
+<p align="center">
+  <img src="i.imgur.com/00JLIuB.png">
+</p>
 
-## Part 1
-### Reproduction of functions from lib C :
-* ft_memset
-* ft_bzero
-* ft_memcpy
-* ft_memccpy
-* ft_memmove
-* ft_memchr
-* ft_memcmp
-* ft_strlen
-* ft_strdup
-* ft_strcpy
-* ft_strncpy
-* ft_strcat
-* ft_strncat
-* ft_strlcat
-* ft_strchr
-* ft_strrchr
-* ft_strstr
-* ft_strnstr
-* ft_strcmp
-* ft_strncmp
-* ft_atoi
-* ft_isalpha
-* ft_isdigit
-* ft_isalnum
-* ft_isascii
-* ft_isprint
-* ft_toupper
-* ft_tolower
+<p align="center">
+	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/badge/evaluated-24%20%2F%2011%20%2F%202022-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/languages/top/0xdespair/libft?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/0xdespair/libft?color=%2312bab9&style=flat-square"/>
